@@ -10,12 +10,7 @@ python row_compare_offset.py --manual-path ".\inter-manual.xlsx" --manual-sheet 
 ```
 ----------------
 ## Final report compare
-### K1 compare
-```
-
-```
-
-### K2 compare
+### Command
 ```
 
 ```
