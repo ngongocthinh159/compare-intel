@@ -16,7 +16,7 @@ Other behavior:
 - Stop if either side's first N cells are all empty (end-of-data).
 
 Usage:
-  python row_compare_offset.py \
+  python inter_compare_offset.py \
     --manual-path /path/to/manual.xlsx \
     --manual-sheet "ManualSheet" \
     --auto-path /path/to/auto.xlsx \
