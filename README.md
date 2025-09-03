@@ -1,3 +1,6 @@
+## Requirements
+pip install pandas openpyxl
+
 ## Inter compare
 ### K1 compare
 ```
