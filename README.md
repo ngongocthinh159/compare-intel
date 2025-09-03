@@ -1,4 +1,4 @@
-## Python Requirements
+## Requirements
 pip install pandas openpyxl
 
 ## Inter compare
