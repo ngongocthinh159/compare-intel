@@ -30,7 +30,7 @@ from typing import List
 import pandas as pd
 
 # ---- EDIT YOUR PRIORITY ORDER HERE ----
-PRIORITY = ["DWM", "FEDEX", "DHLE", "POL", "UPS"]
+PRIORITY = ["DHLE", "DWM", "FEDEX", "POL", "UPS"]
 # --------------------------------------
 
 
